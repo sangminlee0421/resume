@@ -20,6 +20,15 @@
 3. Python
 4. R
 
+취미    
+* 스키
+* 골프
+* 볼링
+
+현재 준비중인 일
+* online marketing
+* customer management system
+
 --------------------------
 
 github adresss: [sangminlee0421][github]
