@@ -1,3 +1,3 @@
 # 한림대학교 소프트웨어융합대학
 ---
-![이력서 사진] (photo_black.jpg)
+![이력서사진] (photo_black.jpg)
